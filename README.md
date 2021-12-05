@@ -1,5 +1,8 @@
 # HelloWorld
 
+## Voraussetzungen
+Um die Datei ausführen zu können, muss mindestens python3 installiert sein. Die Datei wurde auf einem Windows-Rechner getestet, sollte aber, da sie rein in Python geschrieben ist, auch auf anderen Systemen ausführbar sein.
+
 ## Installation und Ausführung
 Um die Anwendung auszuführen, einfach die Datei "HelloWorld.py" herunterladen und mit einem Doppelklick ausführen.
 
